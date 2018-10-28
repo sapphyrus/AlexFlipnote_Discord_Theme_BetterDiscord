@@ -6,8 +6,13 @@
 
 # About the BetterDiscord version
 This is just a simple theme file that uses [AlexFlipnote's auto updater](https://github.com/AlexFlipnote/Discord_Theme/blob/master/autotheme.css) to always load the newest version of his theme, made to be compatible with BetterDiscord<br>
-*Full credits for this theme go to AlexFlipnote and CyberRonin, I didn't make this, just made it work with BetterDiscord*
+
+**Installation:**<br>
+- Make sure you've installed BetterDiscord or a fork of it (I suggest [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/))
+- Download [alexflipnote.theme.css](alexflipnote.theme.css) and put it into %AppData%\BetterDiscord\themes
+
 ### This is an inofficial and completely unsupported version, don't expect any support.
+*Full credits for this theme go to AlexFlipnote and CyberRonin, I didn't make this, just made it work with BetterDiscord*
 
 # Screenshots
 ![Preview 1](https://i.alexflipnote.xyz/12cded.png)
